@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>  
+<configuration>
+<property>
+    <name>fs.default.name</name>
+    <value>hdfs://10.72.51.207:9000</value>
+</property>
+</configuration>
